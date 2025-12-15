@@ -8,3 +8,8 @@ Power BI | Data Cleaning • Modeling • Visualization
  #### Pune is the top performing branch
  #### Attach % increased steadily from Aug–Nov
  #### 163 stores analyzed across 6 branches
+
+# Attach % Trend Analysis
+#### Steady growth observed from August to November
+#### Indicates higher insurance adoption during festive season
+<img width="612" height="484" alt="image" src="https://github.com/user-attachments/assets/0da39248-63e5-434e-9849-5a8a4da8aded" />
